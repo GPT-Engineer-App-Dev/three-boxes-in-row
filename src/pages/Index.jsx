@@ -7,7 +7,7 @@ const Index = () => {
         <Box bg="brand.700" height="200px" borderRadius="md" p={4} display="flex" alignItems="center" justifyContent="center">
           <Text fontSize="xl" color="white">Box 1</Text>
         </Box>
-        <Box bg="brand.700" height="200px" borderRadius="md" p={4} display="flex" alignItems="center" justifyContent="center">
+        <Box bg="brand.800" height="200px" borderRadius="md" p={4} display="flex" alignItems="center" justifyContent="center">
           <Text fontSize="xl" color="white">Box 2</Text>
         </Box>
         <Box bg="brand.700" height="200px" borderRadius="md" p={4} display="flex" alignItems="center" justifyContent="center">
